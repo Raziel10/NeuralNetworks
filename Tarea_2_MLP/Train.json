@@ -1,0 +1,66 @@
+{
+	"Figura0":{
+        "etiqueta" : [0,0,0,0,0,1,0,0,0],
+        "etiqueta_forma" : [0,0,1],
+        "etiqueta_color" : [1,0,0],
+        "bbox": [65, 125, 157, 231],
+        "nombre": "Triangulo verde."
+    },
+    "Figura1":{
+        "etiqueta" : [1,0,0,0,0,0,0,0,0],
+        "etiqueta_forma" : [0,1,0],
+        "etiqueta_color" : [0,1,0],
+        "bbox": [117, 411, 195, 488],
+        "nombre": "Circulo negro"
+    },
+    "Figura2":{
+        "etiqueta" : [0,0,0,0,0,0,1,0,0],
+        "etiqueta_forma" : [1,0,0],
+        "etiqueta_color" : [0,1,0],
+        "bbox": [125, 570, 209, 654],
+        "nombre": "Cuadrado negro"
+    },
+    "Figura3":{
+        "etiqueta" : [0,0,1,0,0,0,0,0,0],
+        "etiqueta_forma" : [0,1,0],
+        "etiqueta_color" : [1,0,0],
+        "bbox": [209, 691, 285, 768],
+        "nombre": "Circulo verde"
+    },
+    "Figura4":{
+        "etiqueta" : [0,0,0,1,0,0,0,0,0],
+        "etiqueta_forma" : [0,0,1],
+        "etiqueta_color" : [0,1,0],
+        "bbox": [344, 79, 437, 186],
+        "nombre": "Triangulo negro"
+    },
+    "Figura5":{
+        "etiqueta" : [0,1,0,0,0,0,0,0,0],
+        "etiqueta_forma" : [0,1,0],
+        "etiqueta_color" : [0,0,1],
+        "bbox": [352, 298, 429, 375],
+        "nombre": "Circulo azul"
+    },
+    "Figura6":{
+        "etiqueta" : [0,0,0,0,0,0,0,1,0],
+        "etiqueta_forma" : [1,0,0],
+        "etiqueta_color" : [0,0,1],
+        "bbox": [367, 510, 451, 594],
+        "nombre": "Cuadrado azul"
+    },
+    "Figura7":{
+        "etiqueta" : [0,0,0,0,1,0,0,0,0],
+        "etiqueta_forma" : [0,0,1],
+        "etiqueta_color" : [0,0,1],
+        "bbox": [458, 669, 551, 775],
+        "nombre": "Triangulo azul"
+    },
+    "Figura8":{
+        "etiqueta" : [0,0,0,0,0,0,0,0,1],
+        "etiqueta_forma" : [1,0,0],
+        "etiqueta_color" : [1,0,0],
+        "bbox": [541, 253, 625, 337],
+        "nombre": "Cuadrado verde"
+    }
+	
+}
